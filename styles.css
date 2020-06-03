@@ -76,14 +76,38 @@
 
 }
 
-#Main p{
+#Main p
+{
 
    font-size:2em;
    text-align:justify;
    margin:3%;
 
 
+}
+
+#Main #pagetitle
+{
+    text-align: center;
 
 
+
+
+}
+
+
+#Main img
+{
+    top: 0%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: scale(.5);
+
+}
+
+#Main #content iframe
+{
+    padding-left:25%;
 
 }
