@@ -94,6 +94,14 @@
 
 }
 
+#Main #aboutlist
+{
+    font-size:1.5em;
+    margin-top: 5%;
+    margin-bottom:5%;
+
+}
+
 #Main #pagetitle
 {
     text-align: center;
