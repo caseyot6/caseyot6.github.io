@@ -79,9 +79,17 @@
 #Main p
 {
 
-   font-size:2em;
+   font-size:1.5em;
    text-align:justify;
    margin:3%;
+
+
+}
+
+#Main ol
+{
+    font-size:1.5em;
+    margin:3%;
 
 
 }
