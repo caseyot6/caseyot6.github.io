@@ -128,3 +128,13 @@
     border-style: solid;
 
 }
+
+#Main #githublocation
+{
+    position:relative;
+    left:45%;
+    font-size: 1em;
+
+
+
+}
